@@ -1,0 +1,10 @@
+# Editor / OS / tool
+.idea/
+.vscode/
+.claude/
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+/vendor/
+*.zip
